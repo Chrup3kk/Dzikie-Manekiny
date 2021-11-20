@@ -1,2 +1,2 @@
 # Dzikie-Manekiny
-Wild mannequins is a small low bugdet project of an fps game made in unity :D
+Wild mannequins is a small, low bugdet fps game project made in unity :D
